@@ -18,7 +18,7 @@ El mejor estudiante de dulfran 😜. **Autodidacta**, **Curioso**.
 
 ### Curiosidades
 
-- Juego videojuegos desde muy temprana edad así que de ahí se derivan todos mis conocimientos de tecnología(muy básicos). Esta carrera es la primera vez que tengo información formal sobre los temas de la tecnología.
+ Juego videojuegos desde muy temprana edad así que esos son todos mis conocimientos actuales de la carrera.
 
 - Estudié 4 semestres de medicina en la UCC.
 
