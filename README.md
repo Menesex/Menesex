@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-- El mejor estudiante de dulfran 😜. **Autodidacta**, **Curioso**.
+- **Autodidacta**, **Curioso** (y l mejor estudiante de dulfran 😜)
 
 - 20 Años. Me gusta aprender de todo, los videojuegos y blablablabla.. 
 
