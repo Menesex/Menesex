@@ -2,11 +2,9 @@
 
 ## Sobre mi
 
-El mejor estudiante de dulfran 😜. **Autodidacta**, **Curioso**.
+- El mejor estudiante de dulfran 😜. **Autodidacta**, **Curioso**.
 
-20 Años. Me gusta aprender de todo, los videojuegos y blablablabla.. 
-
- **negrita**, *cursiva* y ~~tachado~~.
+- 20 Años. Me gusta aprender de todo, los videojuegos y blablablabla.. 
 
 ### Intereses
 
@@ -18,14 +16,14 @@ El mejor estudiante de dulfran 😜. **Autodidacta**, **Curioso**.
 
 ### Curiosidades
 
- Juego videojuegos desde muy temprana edad así que esos son todos mis conocimientos actuales de la carrera.
+- Juego videojuegos desde muy temprana edad así que esos son todos mis conocimientos actuales de la carrera.
 
 - Estudié 4 semestres de medicina en la UCC.
 
 - Hasta ahora no había aprendido nunca a dividir y multiplicar en el cuaderno XDDDD (y no me sé las tablas def memoria)
 
 solo para probar los hipervinculosxd
-[Instagram personal](https://www.google.com)
+[Instagram personal]([https://www.google.com](https://www.instagram.com/mxneses/))
 
 (próximamente pienso crear redes sociales más profesionales)
 
