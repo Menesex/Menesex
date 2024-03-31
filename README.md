@@ -28,6 +28,7 @@ solo para probar los hipervinculosxd
 
 ### Yo visualizando en el espejo la persona que me quiero convertir
 ![meme1](https://github.com/Menesex/Menesex/blob/main/MEMEGITHUB.png?raw=true)
+
 (ejemplo de imagen)
 
 ### Bueno adios, les deseo buen día y buena vida C:
