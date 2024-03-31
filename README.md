@@ -22,7 +22,7 @@
 - Hasta ahora no había aprendido nunca a dividir y multiplicar en el cuaderno XDDDD (y no me sé las tablas def memoria)
 
 solo para probar los hipervinculosxd
-[Instagram personal]([https://www.google.com](https://www.instagram.com/mxneses/))
+[Instagram personal](https://www.instagram.com/mxneses/)
 
 (próximamente pienso crear redes sociales más profesionales)
 
