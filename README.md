@@ -4,7 +4,7 @@
 
 - **Autodidacta**, **Curioso** (y el mejor estudiante de dulfran 😜)
 
-- 20 Años. Me gusta aprender de todo, los videojuegos y blablablabla.. 
+- 20 Años. Me gusta blablablabla.. 
 
 ### Intereses
 
