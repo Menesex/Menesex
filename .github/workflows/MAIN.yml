@@ -7,9 +7,7 @@ on:
   schedule:
     # every 6 hours
     - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
-workflow_dispatch:
+  workflow_dispatch: # Add a manual trigger
 
 # The sequence of runs in this workflow:
 jobs:
@@ -41,20 +39,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
         force: true
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Build the project
-      run: npm run build
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist
