@@ -20,4 +20,4 @@ solo para probar los hipervinculosxd
 [Instagram personal](https://www.instagram.com/mxneses/)
 
 ### Bueno adios, les deseo buen día y buena vida C:
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Menesex/Menesex/blob/output/github-contribution-grid-snake.gif)
