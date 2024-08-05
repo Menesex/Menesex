@@ -1,10 +1,10 @@
 # Menesex
 
-## Sobre mi
+## Sobre mi (esto es con fines educativos sobre github y .md)
 
-- **Autodidacta**, **Curioso** (y el mejor estudiante de dulfran 😜)
+- **Autodidacta**, **Curioso** 
 
-- 20 Años. Me gusta blablablabla.. 
+- 21 Años. Me gusta blablablabla.. 
 
 ### Intereses
 
