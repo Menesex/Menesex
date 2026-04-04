@@ -37,42 +37,45 @@
   </a>
 </div>
 
----
-
-### 🎓 Educational Projects
+### 🎓 Featured Educational Projects
 
 ---
 
-#### 📊 PolyGraphiX
-  ![a](/images/poly.png)
-  Web tool for graphing polynomial functions and calculating derivatives, critical points, and domains.
+<div align="left">
+
+  <h4>📊 PolyGraphiX</h4>
+  <a href="https://github.com/Menesex/PolyGraphiX?tab=readme-ov-file">
+    <img src="images/poly.png" width="400" height="250" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="PolyGraphiX" />
+  </a>
+  <p>Web tool for graphing polynomial functions, derivatives, and critical points.</p>
   <br />
-  <a href="https://github.com/Menesex/PolyGraphiX?tab=readme-ov-file">link</a>
-</p>
+
+  ---
+
+  <h4>🌲 Binary Tree Visualizer</h4>
+  <a href="https://github.com/Menesex/Trees-Visualizator-Web-AVL-Binary-">
+    <img src="images/binary.png" width="400" height="250" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Binary Tree Visualizer" />
+  </a>
+  <p>Visualize and understand Binary Search Tree (BST) and Self-Balancing AVL Trees.</p>
+  <br />
+
+  ---
+
+  <h4>👥 Employees Manager</h4>
+  <a href="https://github.com/Menesex/Employees_manager">
+    <img src="images/empleados.png" width="400" height="250" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Employees Manager" />
+  </a>
+  <p>An employee management system designed for administrative oversight of staff.</p>
+  <br />
+
+  ---
+
+  <h4>✅ To Do App</h4>
+  <a href="https://github.com/Menesex/My-Yo-Do-List-DEMO-">
+    <img src="images/todo.png" width="400" height="250" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="To Do App" />
+  </a>
+  <p>A full-stack To-Do app inspired by Microsoft Outlook, built from scratch.</p>
+
+</div>
 
 ---
-
-#### 🌲 Binary Tree Visualizer
-  ![a](/images/binary.png)
-  Visualize and understand Binary Search Tree (BST) and a Self-Balancing AVL Tree
-  <br />
-  <a href="https://github.com/Menesex/Trees-Visualizator-Web-AVL-Binary-">link</a>
-</p>
-
----
-
-#### 👥 Employees Manager
-  ![a](/images/empleados.png)
-   An employee management system designed for the administrative oversight of staff and departments
-  <br />
-  <a href="https://github.com/Menesex/Employees_manager">link</a>
-</p>
-
----
-
-#### ✅ To Do App
-  ![a](/images/todo.png)
-  A full-stack To-Do app inspired by Microsoft Outlook To-Do — built as a learning project from scratch.
-  <br />
-  <a href="https://github.com/Menesex/My-Yo-Do-List-DEMO-">link</a>
-</p>
